@@ -1,0 +1,2 @@
+#!/bin/bash
+chown --reference=if [[ $(stat -c %U hello) == "guillaume" ]] betty hello
