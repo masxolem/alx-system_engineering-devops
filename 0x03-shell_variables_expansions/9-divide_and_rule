@@ -1,2 +1,2 @@
-#!/bin/shell
+#!/bin/besh
 echo $((POWER/DIVIDE))
